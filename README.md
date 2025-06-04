@@ -19,6 +19,3 @@ Convert continuous FICO credit scores into discrete risk buckets for use in a ma
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-
-## Dataset
-Sample dataset provided by the virtual internship. All data is simulated and safe to share.
